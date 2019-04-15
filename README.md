@@ -1,6 +1,5 @@
-# masculinity
-## Masculinity Survey
-#### Ideas about masculinity
+# Masculinity Survey
+### Ideas about masculinity
 
 This dataset contains the results of a survey asking adults who identify as men to reflect on their ideas about masculinity. The survey was conducted by SurveyMokey in partnership with FiveThirtyEight and WNYC Studios from May 10-22, 2018. It was used in the story https://fivethirtyeight.com/features/what-do-men-think-it-means-to-be-a-man/. 
 
